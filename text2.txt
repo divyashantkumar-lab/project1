@@ -1,1 +1,2 @@
 this is second file having no code featuer2.
+this is FEATURE2.
